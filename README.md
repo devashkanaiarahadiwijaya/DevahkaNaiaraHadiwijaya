@@ -27,13 +27,13 @@ Windows: Kostumisasi terbatas pada tema, wallpaper, dan beberapa pengaturan lain
 
 Linux: Sangat fleksibel dan dapat disesuaikan sepenuhnya, termasuk tampilan, kernel, dan aplikasi. Terdapat berbagai distribusi (distro) seperti Ubuntu, Debian, Fedora, dan Arch Linux yang memungkinkan pengguna memilih lingkungan yang sesuai.
 
-### 3. Kompatibilitas Software -
+### 3. Kompatibilitas Software 
 
 Windows: Mendukung banyak software komersial seperti Microsoft Office, Adobe Suite, dan berbagai game modern. Namun, beberapa software eksklusif Windows sulit dijalankan di Linux tanpa emulator seperti Wine atau Virtual Machine.
 
 Linux: Mendukung banyak aplikasi open-source seperti LibreOffice, GIMP, dan Blender. Namun, kompatibilitas dengan software Windows terbatas, dan beberapa program memerlukan tambahan seperti Wine atau Proton untuk dijalankan.
 
-### 4. Task Manager -
+### 4. Task Manager 
    
 Windows: Menggunakan Task Manager yang memungkinkan pengguna memonitor penggunaan CPU, RAM, Disk, serta mematikan proses yang tidak responsif. Task Manager bisa diakses dengan Ctrl + Shift + Esc.
 
@@ -47,7 +47,7 @@ Windows: Bersifat proprietary (berbayar) dengan lisensi tertutup. Pengguna harus
 Linux: Open-source dan gratis untuk digunakan. Siapa pun dapat mengunduh, mengedit, dan mendistribusikannya sesuai kebutuhan.
 
 
-### 6. Penggunaan di Server -
+### 6. Penggunaan di Server 
 
 Windows Server: Digunakan untuk server berbasis Microsoft, seperti layanan berbasis .NET, Active Directory, dan aplikasi enterprise. Lebih ramah pengguna tetapi membutuhkan lisensi berbayar.
 
